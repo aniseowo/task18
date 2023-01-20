@@ -1,0 +1,40 @@
+body {
+    background-color: gray;
+    
+}
+.info {
+    background-color: oldlace;
+    margin: 0 auto;
+    width: 1200px;
+    padding: 105px 90px;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+}
+.myPhoto {
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+}
+.pic {
+    border: 2px solid black;
+
+}
+
+.aboutMe {
+   display: flex;
+   flex-direction: column;
+   margin: 20px; 
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.socialNetworking {
+    background-color: lightslategray;
+    text-align: center;
+    
+}

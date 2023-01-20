@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+    
+}
+.Information {
+    background-color: oldlace;
+    margin: 0 auto;
+    width: 1200px;
+    padding: 105px 90px;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+}
+.MainInfo {
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: column;
+    padding: 30px; ;
+}
+img {
+    width: 300px;
+    justify-content: baseline;
+    
+}
+.brovaryMap {
+    width: 700px;
+    height: 700px;
+    padding: 30px;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+    
+}
+.Information {
+    background-color: oldlace;
+    margin: 0 auto;
+    width: 1200px;
+    padding: 105px 90px;
+    
+}
+.list {
+    padding: 40px;
+    
+}
+img {
+    height: 300px;
+    padding: 20px;
+}
